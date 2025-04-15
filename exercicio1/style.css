@@ -1,4 +1,3 @@
-/* Estilos gerais */
 body {
     font-family: 'Arial', sans-serif;
     background: linear-gradient(120deg, #89f7fe, #66a6ff);
@@ -10,7 +9,7 @@ body {
     color: #333;
   }
   
-  /* Contêiner principal */
+
   .container {
     background: #ffffff;
     border-radius: 15px;
@@ -21,7 +20,7 @@ body {
     width: 100%;
   }
   
-  /* Título */
+
   .container h1 {
     font-size: 24px;
     margin-bottom: 15px;
@@ -29,7 +28,7 @@ body {
     font-weight: bold;
   }
   
-  /* Número gerado */
+ 
   .number-display {
     font-size: 48px;
     font-weight: bold;
@@ -43,7 +42,7 @@ body {
     width: 100%;
   }
   
-  /* Botão */
+ 
   .generate-button {
     background: linear-gradient(120deg, #ff6f61, #ff9068);
     color: #fff;
@@ -63,7 +62,7 @@ body {
     transform: scale(1.05);
   }
   
-  /* Responsivo */
+
   @media (max-width: 768px) {
     .container {
       padding: 15px 20px;

@@ -4,3 +4,6 @@
         echo "<p>Número gerado: <strong>$randomNumber</strong></p>";
     }
     ?>
+
+    <form action="index.php" method="post">
+    <button type="submit">Voltar</button>

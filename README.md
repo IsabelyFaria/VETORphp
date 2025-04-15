@@ -3,4 +3,4 @@
 <p>Nome da rua: VETOR
 <p>Número da casa: indice (valor armanezado)</p>
 <p> $nome = 'Marcelo'
-para armazernar: $nome[3] = 'Marcelo (4° casa, pq o vetor inicia ao 0)</p>
+<p>para armazernar: $nome[3] = 'Marcelo (4° casa, pq o vetor inicia ao 0)</p>

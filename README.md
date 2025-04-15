@@ -1,4 +1,4 @@
-# VETORphp - Aula dia 15/04
+# VETOR - Aula dia 15/04
 <p> Integrante: Isabely Faria </p>
 <p>Nome da rua: VETOR
 Número da casa: indice (valor armanezado)</p>

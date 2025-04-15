@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercicio 1 - Gerar Número Aleatório</title>
+    <title>Exercicio 1 - Gerar um Número Aleatório</title>
 </head>
 <body>
 

@@ -8,10 +8,12 @@
 </head>
 <body>
 
-    <h1>Gerador de Número Aleatório</h1>
+    <div class="container">
+    <h1>Gerador de Números Aleatórios</h1>
     <form action="calcular.php" method="post">
-    <button type="submit" name="numero">Gerar Número</button>
+        <button type="submit" name="numero">Gerar Número</button>
     </form>
+  </div>
 
 </body>
 </html>
